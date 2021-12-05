@@ -1,0 +1,26 @@
+1] $RECYCLE.BIN
+ 
+2] C Drive
+ 
+3] Django
+ 
+4] Games
+ 
+5] Garbage
+ 
+6] Intel
+ 
+7] Mafia - Definitive Edition
+ 
+8] Mi A2 Backup
+ 
+9] Program Files
+ 
+10] Python Work
+ 
+11] System Volume Information
+ 
+12] W O R K
+ 
+13] Windows Boot
+ 
